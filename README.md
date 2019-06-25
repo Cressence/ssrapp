@@ -3,8 +3,10 @@ This project is build to demonstarte server-side rendering with React.js
 
 ## Prerequisites
 You will need the following installed to run the project
-````node 
-```
+<ul>
+<li>node</li>
+</ul> 
+
 
 ## Installation
 <ul>
