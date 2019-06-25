@@ -1,11 +1,12 @@
 ### Server side rendering with React.js
 This project is build to demonstarte server-side rendering with React.js
 
-##Prerequisites
+## Prerequisites
 You will need the following installed to run the project
-```` node ```
+````node 
+```
 
-##Installation
+## Installation
 <ul>
     <li>Clone the prject</li>
     <li>run yarn  or npm install</li>
